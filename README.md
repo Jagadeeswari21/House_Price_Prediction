@@ -5,7 +5,6 @@ This project predicts house prices using machine learning.
 
 ## 📂 Contents
 - `House_Price_Prediction.ipynb` → full notebook (dataset creation, EDA, model training, predictions)  
-- (Optional) `Report.pdf` → final report  
 
 ## ✅ Results
 - Best Model: Random Forest
